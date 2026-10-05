@@ -198,23 +198,23 @@ GET /api/admin/users
 
 ### Dashboard
 
-_Add dashboard screenshot here._
+![ClientFlow Dashboard](client/public/screenshots/dashboard.png)
 
 ### Client Management
 
-_Add clients screenshot here._
+![ClientFlow Clients](client/public/screenshots/clients.png)
 
 ### Task Management
 
-_Add tasks screenshot here._
+![ClientFlow Tasks](client/public/screenshots/tasks.png)
 
 ### Profile & Security
 
-_Add profile screenshot here._
+![ClientFlow Profile](client/public/screenshots/profile.png)
 
 ### Admin Panel
 
-_Add admin screenshot here._
+![ClientFlow Admin Panel](client/public/screenshots/admin.png)
 
 ---
 
